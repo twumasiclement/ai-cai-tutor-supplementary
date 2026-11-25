@@ -1,7 +1,7 @@
 # ai-cai-tutor-supplementary
 # Supplementary materials
 
-**Article:** Design, implementation and technical evaluation of AI-CAI Tutor: A novel teacher-governed, curriculum-aligned generative AI tutoring platform for teaching and learning across educational levels in Ghana
+**Article:** Teacher-governed generative AI tutoring across educational levels: Design and technical evaluation of AI-CAI Tutor system
 
 
 ## Contents

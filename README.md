@@ -3,7 +3,6 @@
 
 **Article:** Design, implementation and technical evaluation of AI-CAI Tutor: A novel teacher-governed, curriculum-aligned generative AI tutoring platform for teaching and learning across educational levels in Ghana
 
-**Journal:** Education and Information Technologies (submitted for anonymised peer review)
 
 ## Contents
 
